@@ -1,4 +1,4 @@
-👋 Hi! I'm Samantha
+## 👋 Hi! I'm Samantha
 
 
 💻 Passionate about Data Analytics: My current role sparked my interest in data analytics, especially after learning SQL on the job.
